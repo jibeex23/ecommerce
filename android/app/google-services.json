@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "855444533289",
+    "project_id": "jibeex-dz",
+    "storage_bucket": "jibeex-dz.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:855444533289:android:769f24eb61e2739be9ac38",
+        "android_client_info": {
+          "package_name": "com.jibeex.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "855444533289-qo0lahbjqu64dae9mlq60ptdk02nstev.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBR3vuAkjEn0Hnc-RPukKn4aLWJWyJ3WOY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "855444533289-qo0lahbjqu64dae9mlq60ptdk02nstev.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
